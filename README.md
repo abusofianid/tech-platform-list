@@ -1,9 +1,9 @@
-# Awesome IT Platforms 🚀  
+## Awesome IT Platforms 🚀  
 A curated collection of platforms across development, data, design, marketing, collaboration, cloud, and more. This list is continuously updated with tools that help professionals in the IT and digital fields.  
 
 ---
 
-## 📑 Table of Contents
+### 📑 Table of Contents
 - [💻 Development](#-development)  
 - [📊 Data & Analytics](#-data--analytics)  
 - [🎨 Design & Creative](#-design--creative)  
@@ -15,9 +15,14 @@ A curated collection of platforms across development, data, design, marketing, c
 - [🧪 Testing & QA](#-testing--qa)  
 - [🔒 Security & Monitoring](#-security--monitoring)  
 
+### 📌 Others
+- [🙌 Contributing](#-contributing)  
+- [⭐ Support](#-support)  
+- [📧 Contact](#-contact)
+
 ---
 
-## 💻 Development
+### 💻 Development
 Platforms for coding, version control, and building software applications.
 
 - [Android Studio](https://developer.android.com/studio) — Official IDE for Android app development.  
@@ -46,7 +51,7 @@ Platforms for coding, version control, and building software applications.
 
 ---
 
-## 📊 Data & Analytics
+### 📊 Data & Analytics
 Platforms for data engineering, visualization, and analytics.
 
 - [Airbyte](https://airbyte.com) — Open-source connectors for data integration.  
@@ -74,7 +79,7 @@ Platforms for data engineering, visualization, and analytics.
 
 ---
 
-## 🎨 Design & Creative
+### 🎨 Design & Creative
 Platforms for design, prototyping, graphics, and creative work.
 
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — Industry-standard vector illustration software.  
@@ -102,7 +107,7 @@ Platforms for design, prototyping, graphics, and creative work.
 
 ---
 
-## ✍️ Writing & Content
+### ✍️ Writing & Content
 Platforms for writing, content management, and publishing.
 
 - [Bear](https://bear.app) — Minimalist note-taking and writing app.  
@@ -127,7 +132,7 @@ Platforms for writing, content management, and publishing.
 
 ---
 
-## 🤝 Collaboration & Productivity
+### 🤝 Collaboration & Productivity
 Platforms for communication, teamwork, and productivity.
 
 - [Asana](https://asana.com) — Task tracking and team coordination.  
@@ -146,7 +151,7 @@ Platforms for communication, teamwork, and productivity.
 
 ---
 
-## ☁️ Cloud & Hosting
+### ☁️ Cloud & Hosting
 Platforms for hosting, infrastructure, and deployment.
 
 - [AWS](https://aws.amazon.com) — Cloud services across compute, storage, and more.  
@@ -166,7 +171,7 @@ Platforms for hosting, infrastructure, and deployment.
 
 ---
 
-## 📚 Learning & Resources
+### 📚 Learning & Resources
 Platforms for online learning, tutorials, and developer resources.
 
 - [Codecademy](https://codecademy.com) — Interactive coding lessons for beginners.  
@@ -186,7 +191,7 @@ Platforms for online learning, tutorials, and developer resources.
 
 ---
 
-## 📂 Project Management
+### 📂 Project Management
 Platforms for planning, tracking, and delivering projects.
 
 - [Asana](https://asana.com) — Create, assign, and track tasks and projects.  
@@ -204,7 +209,7 @@ Platforms for planning, tracking, and delivering projects.
 
 ---
 
-## 🧪 Testing & QA
+### 🧪 Testing & QA
 Platforms for automated testing, QA, and test management.
 
 - [Appium](https://appium.io) — Automation framework for mobile testing.  
@@ -222,7 +227,7 @@ Platforms for automated testing, QA, and test management.
 
 ---
 
-## 🔒 Security & Monitoring
+### 🔒 Security & Monitoring
 Platforms for security, observability, and incident response.
 
 - [Burp Suite](https://portswigger.net/burp) — Web application security testing tool.  
@@ -240,17 +245,19 @@ Platforms for security, observability, and incident response.
 
 ---
 
-## 🙌 Contributing
+### 🙌 Contributing
 Contributions are welcome!  
 If you know a useful platform that should be listed here, feel free to open a Pull Request or create an Issue.  
 
-## ⭐ Support
+### ⭐ Support
 If you find this repository helpful, please consider giving it a **star** on GitHub — it helps others discover this collection too! 
 
-## 📧 Contact
+### 📧 Contact
 **Author:** Abu Sofian  
 **Email:** [abusofian.id@gmail.com](mailto:abusofian.id@gmail.com)  
 **LinkedIn:** [linkedin.com/in/abusofianid](https://www.linkedin.com/in/abusofianid) 
+
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
